@@ -51,9 +51,10 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
+ Output:
+##<img width="1532" height="794" alt="Screenshot 2025-12-28 131601" src="https://github.com/user-attachments/assets/2ae531d3-81c5-4f73-b339-2b622e1be997" />
 
-## Output:
-![Uploading Screenshot (115).png…]()
+
 ### Name:
 ### Register Number: 25008477(LEKHASHRI E)
 
