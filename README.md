@@ -53,9 +53,7 @@
 
 
 ## Output:
-
-![Uploading image.png…]()
-
+![Uploading Screenshot (115).png…]()
 ### Name:
 ### Register Number: 25008477(LEKHASHRI E)
 
